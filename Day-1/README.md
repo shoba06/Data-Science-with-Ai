@@ -15,7 +15,7 @@ Practiced Python fundamentals through hands-on exercises using Google Colab.
 - Lists
 
 ## 📄 Output File
-[Click here to view output](https://github.com/shoba06/Data-Science-with-Ai/raw/main/Day-1_Output.pdf)
+[Click here to view output](https://raw.githubusercontent.com/shoba06/Data-Science-with-Ai/main/Day-1/Day-1_Output.pdf)
 
 ## 💻 Tools Used
 - Python
