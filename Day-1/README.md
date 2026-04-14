@@ -14,9 +14,6 @@ Practiced Python fundamentals through hands-on exercises using Google Colab.
 - String Formatting
 - Lists
 
-## 📄 Output File
-[Click here to view output](file:///C:/Users/shoba/Downloads/Day-1_Output%20(2).pdf)
-
 ## 💻 Tools Used
 - Python
 - Google Colab
