@@ -15,7 +15,7 @@ Practiced Python fundamentals through hands-on exercises using Google Colab.
 - Lists
 
 ## 📄 Output File
-[Click here to view output](Day-1/Day-1_Output.pdf)
+[Click here to view output](./Day-1_Output.pdf)
 
 ## 💻 Tools Used
 - Python
